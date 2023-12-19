@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![spring project](https://github.com/23002824/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151514009/7d3ae7a7-9e6d-49a3-bd9e-43665918e099)
+![Screenshot 2023-12-19 185853](https://github.com/23002824/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151514009/ad7a6d6a-9dfa-4fea-b26f-d2b5db92410e)
 
-### Name:
-### Register Number:
+### Name:Danica Christa
+### Register Number:23002824
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
